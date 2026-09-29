@@ -21,28 +21,4 @@
 {"cat":"Pork","title":"Pork tenderloin traybake","source":"Adapted from BBC Good Food","url":"https://www.bbcgoodfood.com/recipes/pork-tenderloin-traybake","servings":4,"notes":"Omit onion; use potatoes, carrots, squash and peas.","ingredients":["500 g pork tenderloin","500 g potatoes, cut into 3 cm pieces","200 g carrots, peeled and cut into 2 cm pieces","250 g squash, peeled and cut into 3 cm cubes","120 g peas","20 ml rapeseed oil","5 g paprika","5 g salt"],"method":["Toss potatoes, carrots and squash with oil, paprika and salt. Roast at 210°C fan for 25 minutes.","Add pork and roast another 18–22 minutes until the centre reaches 63°C.","Rest pork for 3 minutes and serve with peas."]},
 {"cat":"Pasta","title":"Salmon and pea pasta","source":"Original adaptation","url":"https://www.bbcgoodfood.com/recipes/salmon-pasta","servings":4,"notes":"Use lactose-free cream and omit onion and capers.","ingredients":["300 g pasta","350 g salmon, cut into 3 cm pieces","120 g peas","80 g spinach","150 ml lactose-free cream","10 ml rapeseed oil","10 ml lemon juice"],"method":["Cook pasta and reserve 100 ml water.","Cook salmon in oil until flaky.","Add cream, peas and spinach and simmer for 3 minutes.","Toss with pasta, lemon juice and pasta water."]},
 {"cat":"Other","title":"Chicken and avocado rice bowl","source":"Original adaptation","url":"https://www.bbcgoodfood.com/recipes/collection/rice-bowl-recipes","servings":2,"notes":"A simple bowl using cucumber, corn and avocado instead of heavy dressing.","ingredients":["400 g chicken breast","300 g cooked rice","1 avocado, sliced","120 g cucumber, sliced","100 g sweetcorn","100 g carrots, peeled and grated","10 ml lemon juice","10 ml avocado oil"],"method":["Cook chicken in avocado oil until the centre reaches 75°C, then rest and slice.","Prepare cucumber, carrots, corn and avocado.","Arrange rice and vegetables in bowls.","Top with chicken and lemon juice."]}
-]{
-  "cat": "Pasta",
-  "title": "Creamy mushroom pasta",
-  "source": "Original adaptation",
-  "url": "",
-  "servings": 2,
-  "notes": "Quick vegetarian option. Use lactose-free cream to keep it dairy-friendly.",
-  "ingredients": [
-    "200 g pasta",
-    "250 g mushrooms, sliced",
-    "2 garlic cloves, minced",
-    "15 ml rapeseed oil",
-    "100 ml lactose-free cooking cream",
-    "30 g parmesan cheese, grated",
-    "5 g salt",
-    "1 g black pepper"
-  ],
-  "method": [
-    "Cook pasta in salted water until al dente, reserving 50 ml of pasta water.",
-    "Heat rapeseed oil in a pan and fry mushrooms until golden brown, about 5–7 minutes.",
-    "Add garlic and cook for 1 minute until fragrant.",
-    "Lower the heat, stir in the cream, parmesan and reserved pasta water.",
-    "Toss the pasta in the sauce until well coated, season with salt and pepper and serve immediately."
-  ]
-}
+]
