@@ -1,30 +1,49 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My Recipe Book</title>
-    <style>
-        body { font-family: Arial, sans-serif; max-width: 800px; margin: auto; padding: 20px; }
-        .recipe { border-bottom: 1px solid #ccc; padding: 10px 0; }
-        a { color: #007bff; text-decoration: none; }
-    </style>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>My Recipe Book</title>
+  <style>
+    :root{--bg:#f7f3ee;--card:#fffdf9;--text:#2f2a25;--muted:#756b62;--accent:#b85c38;--border:#e8ded4}
+    *{box-sizing:border-box}
+    body{margin:0;background:var(--bg);color:var(--text);font-family:Arial,sans-serif}
+    header{padding:32px 20px;text-align:center;background:var(--card);border-bottom:1px solid var(--border)}
+    h1{margin:0 0 8px;font-size:2rem}
+    header p{margin:0;color:var(--muted)}
+    main{max-width:1100px;margin:0 auto;padding:24px 16px}
+    .toolbar{display:flex;gap:12px;flex-wrap:wrap;margin-bottom:24px}
+    input,select{padding:12px 14px;border:1px solid var(--border);border-radius:10px;background:white;color:var(--text);font-size:1rem}
+    input{flex:1;min-width:220px}
+    #recipe-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:18px}
+    .recipe-card{display:block;padding:20px;background:var(--card);border:1px solid var(--border);border-radius:14px;color:inherit;text-decoration:none;box-shadow:0 3px 12px rgba(65,45,30,.06);transition:transform .15s,box-shadow .15s}
+    .recipe-card:hover{transform:translateY(-2px);box-shadow:0 7px 18px rgba(65,45,30,.12)}
+    .recipe-card h2{margin:8px 0;font-size:1.2rem}
+    .category{color:var(--accent);font-size:.8rem;font-weight:700;text-transform:uppercase;letter-spacing:.05em}
+    .recipe-card p{margin:0;color:var(--muted);line-height:1.45}
+    .empty{text-align:center;color:var(--muted);padding:32px}
+  </style>
 </head>
 <body>
+  <header>
     <h1>My Recipe Book</h1>
-    <div id="recipes"></div>
-    <script>
-        fetch('recipes.json')
-            .then(response => response.json())
-            .then(recipes => {
-                const container = document.getElementById('recipes');
-                recipes.forEach((recipe, index) => {
-                    const div = document.createElement('div');
-                    div.className = 'recipe';
-                    div.innerHTML = `<h2><a href="recipe.html?id=${index}">${recipe.title}</a></h2><p>${recipe.cat}</p>`;
-                    container.appendChild(div);
-                });
-            });
-    </script>
+    <p>Simple recipes from around the world</p>
+  </header>
+  <main>
+    <div class="toolbar">
+      <input id="search" type="search" placeholder="Search recipes or ingredients...">
+      <select id="category"><option value="">All categories</option></select>
+    </div>
+    <section id="recipe-grid"></section>
+  </main>
+  <script>
+    const grid=document.getElementById('recipe-grid');
+    const search=document.getElementById('search');
+    const category=document.getElementById('category');
+    let recipes=[];
+    fetch('recipes.json').then(response=>{if(!response.ok)throw new Error('Could not load recipes.json');return response.json();}).then(data=>{recipes=data;[...new Set(recipes.map(recipe=>recipe.cat))].sort().forEach(cat=>{const option=document.createElement('option');option.value=cat;option.textContent=cat;category.appendChild(option);});render();}).catch(error=>{grid.innerHTML='<p class="empty">The recipes could not be loaded. Please try refreshing the page.</p>';console.error(error);});
+    function render(){const query=search.value.toLowerCase().trim();const selected=category.value;const filtered=recipes.filter(recipe=>{const text=JSON.stringify(recipe).toLowerCase();return(!query||text.includes(query))&&(!selected||recipe.cat===selected);});grid.innerHTML=filtered.length?filtered.map((recipe,index)=>`<a class="recipe-card" href="recipe.html?id=${index}"><span class="category">${recipe.cat}</span><h2>${recipe.title}</h2><p>${recipe.notes||''}</p></a>`).join(''):'<p class="empty">No recipes matched your search.</p>';}
+    search.addEventListener('input',render);category.addEventListener('change',render);
+  </script>
 </body>
 </html>

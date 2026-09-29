@@ -6,56 +6,7 @@
     "url": "https://www.teaforturmeric.com/baked-tandoori-chicken-curry/",
     "servings": 4,
     "notes": "Mild version: omit chilli and onion. Use lactose-free yoghurt if needed.",
-    "ingredients": [
-      "600 g chicken thighs or breast, cut into 4–5 cm pieces",
-      "180 g lactose-free natural yoghurt",
-      "10 ml avocado or rapeseed oil",
-      "10 g tandoori masala",
-      "2 g paprika",
-      "2 g ground cumin",
-      "1 g turmeric",
-      "2 g garam masala",
-      "2 garlic cloves, finely grated",
-      "5 g fresh ginger, finely grated",
-      "Juice of 1 lemon",
-      "5 g salt",
-      "1 g black pepper"
-    ],
-    "method": [
-      "Cut shallow slits into the thickest parts of the chicken.",
-      "Mix yoghurt, oil, spices, garlic, ginger, lemon juice, salt and pepper.",
-      "Coat the chicken, cover and refrigerate for at least 30 minutes.",
-      "Place on a lined tray and bake at 220°C conventional or 200°C fan for 25–35 minutes, turning once.",
-      "Check the thickest piece reaches 75°C. Rest for 5 minutes and serve with rice and sliced cucumber."
-    ]
-  },
-  {
-    "cat": "Indian-inspired",
-    "title": "Chicken biryani",
-    "source": "Adapted from BBC Food",
-    "url": "https://www.bbc.co.uk/food/recipes/chickenbiriyani_89035",
-    "servings": 4,
-    "notes": "Omit onion and shallots. Add carrots, peas or spinach and keep the spice level mild.",
-    "ingredients": [
-      "500 g boneless chicken, cut into 4 cm pieces",
-      "250 g basmati rice, rinsed",
-      "120 g carrots, peeled and diced",
-      "120 g frozen peas",
-      "60 g spinach, roughly chopped",
-      "3 garlic cloves, finely chopped",
-      "15 g fresh ginger, grated",
-      "10 ml rapeseed oil",
-      "500 ml chicken stock",
-      "5 g mild curry spice blend",
-      "2 g turmeric",
-      "5 g salt"
-    ],
-    "method": [
-      "Rinse the rice until the water runs mostly clear. Simmer it in water for 7–8 minutes, then drain while still firm.",
-      "Heat rapeseed oil in a large pot and brown the chicken for 4–5 minutes.",
-      "Add garlic, ginger, spices, carrots and stock. Simmer covered for 12–15 minutes until the chicken is cooked.",
-      "Fold in the rice and peas, cover and cook on low for 8–10 minutes.",
-      "Stir through spinach, rest covered for 5 minutes and fluff before serving."
-    ]
+    "ingredients": ["600 g chicken thighs or breast, cut into 4–5 cm pieces", "180 g lactose-free natural yoghurt", "10 ml avocado or rapeseed oil", "10 g tandoori masala", "2 g paprika", "2 g ground cumin", "1 g turmeric", "2 g garam masala", "2 garlic cloves, finely grated", "5 g fresh ginger, finely grated", "Juice of 1 lemon", "5 g salt", "1 g black pepper"],
+    "method": ["Cut shallow slits into the thickest parts of the chicken.", "Mix yoghurt, oil, spices, garlic, ginger, lemon juice, salt and pepper.", "Coat the chicken, cover and refrigerate for at least 30 minutes.", "Place on a lined tray and bake at 220°C conventional or 200°C fan for 25–35 minutes, turning once.", "Check the thickest piece reaches 75°C. Rest for 5 minutes and serve with rice and sliced cucumber."]
   }
 ]
