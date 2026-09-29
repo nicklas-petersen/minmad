@@ -1,24 +1,577 @@
 [
-{"cat":"Indian-inspired","title":"Mild chicken tandoori","source":"Adapted from Tea for Turmeric","url":"https://www.teaforturmeric.com/baked-tandoori-chicken-curry/","servings":4,"notes":"Mild version: omit chilli and onion. Use lactose-free yoghurt if needed.","ingredients":["600 g chicken thighs or breast, cut into 4–5 cm pieces","180 g lactose-free natural yoghurt","10 ml avocado or rapeseed oil","10 g tandoori masala","2 g paprika","2 g ground cumin","1 g turmeric","2 g garam masala","2 garlic cloves, finely grated","5 g fresh ginger, finely grated","Juice of 1 lemon","5 g salt","1 g black pepper"],"method":["Cut shallow slits into the thickest parts of the chicken.","Mix yoghurt, oil, spices, garlic, ginger, lemon juice, salt and pepper.","Coat the chicken, cover and refrigerate for at least 30 minutes.","Place on a lined tray and bake at 220°C conventional or 200°C fan for 25–35 minutes, turning once.","Check the thickest piece reaches 75°C. Rest for 5 minutes and serve with rice and sliced cucumber."]},
-{"cat":"Indian-inspired","title":"Chicken biryani","source":"Adapted from BBC Food","url":"https://www.bbc.co.uk/food/recipes/chickenbiriyani_89035","servings":4,"notes":"Omit onion and shallots. Add carrots, peas or spinach and keep the spice level mild.","ingredients":["500 g boneless chicken, cut into 4 cm pieces","250 g basmati rice, rinsed","120 g carrots, peeled and diced","120 g frozen peas","60 g spinach, roughly chopped","3 garlic cloves, finely chopped","15 g fresh ginger, grated","10 ml rapeseed oil","500 ml chicken stock","5 g mild curry spice blend","2 g turmeric","5 g salt"],"method":["Rinse the rice until the water runs mostly clear. Simmer it in water for 7–8 minutes, then drain while still firm.","Heat rapeseed oil in a large pot and brown the chicken for 4–5 minutes.","Add garlic, ginger, spices, carrots and stock. Simmer covered for 12–15 minutes until the chicken is cooked.","Fold in the rice and peas, cover and cook on low for 8–10 minutes.","Stir through spinach, rest covered for 5 minutes and fluff before serving."]},
-{"cat":"Indian-inspired","title":"Chicken pulao","source":"Adapted from Skinnytaste","url":"https://www.skinnytaste.com/instant-pot-indian-chicken-pulao/","servings":4,"notes":"Leave out onion and keep the spices mild.","ingredients":["500 g chicken breast, cut into 4 cm pieces","250 g basmati rice, rinsed","100 g carrots, peeled and diced","100 g peas","15 ml avocado oil","2 garlic cloves, minced","10 g ginger, grated","600 ml chicken stock","5 g mild garam masala","5 g salt"],"method":["Heat avocado oil in a heavy pot and brown the chicken for 4 minutes.","Add garlic, ginger, garam masala, rice and stock. Stir once.","Cover and simmer gently for 15 minutes, or until the rice is tender and the chicken reaches 75°C.","Fold in carrots and peas during the final 5 minutes. Rest for 5 minutes before serving."]},
-{"cat":"Indian-inspired","title":"Mild chicken tikka masala","source":"Adapted from BBC Food","url":"https://www.bbc.co.uk/food/recipes/chickentikkamasala_73305","servings":4,"notes":"Omit onion and tomato if needed; use mild curry and add spinach.","ingredients":["600 g chicken breast, cut into 4 cm pieces","150 g lactose-free yoghurt","15 ml rapeseed oil","3 garlic cloves, finely grated","15 g ginger, grated","8 g mild curry powder","400 ml chicken stock","100 ml lactose-free cooking cream","80 g spinach, roughly chopped","5 g salt"],"method":["Mix chicken with 75 g yoghurt, half the garlic, half the ginger and the curry powder. Marinate for 30 minutes.","Heat rapeseed oil and brown the chicken in batches for 3–4 minutes.","Add remaining garlic, ginger and stock. Simmer for 12–15 minutes until cooked.","Lower the heat and stir in cream, remaining yoghurt and spinach. Do not boil after adding yoghurt."]},
-{"cat":"Indian-inspired","title":"Easy chicken curry","source":"Adapted from BBC Good Food","url":"https://www.bbcgoodfood.com/recipes/easy-chicken-curry","servings":4,"notes":"Use lactose-free yoghurt and add peas or carrots.","ingredients":["500 g chicken, cut into 4 cm pieces","15 ml rapeseed oil","10 g mild curry powder","2 garlic cloves, minced","10 g ginger, grated","300 ml chicken stock","120 g carrots, peeled and sliced","120 g peas","100 g lactose-free yoghurt","5 g salt"],"method":["Heat oil and brown chicken for 5 minutes.","Add curry powder, garlic and ginger and cook for 1 minute.","Pour in stock and simmer for 15 minutes.","Add carrots and peas and cook for another 6–8 minutes.","Remove from heat and stir in yoghurt."]},
-{"cat":"Asian-inspired","title":"Chicken pad Thai","source":"Adapted from BBC Food","url":"https://www.bbc.co.uk/food/recipes/pad_thai_38349","servings":2,"notes":"Keep egg, bean sprouts, peanuts and carrots. Omit spring onion and chilli.","ingredients":["250 g dry flat rice noodles","3 garlic cloves, roughly chopped","2 eggs","120 g bean sprouts","100 g carrot, peeled and cut into matchsticks","30 g peanuts, roughly crushed","30 ml soy sauce","20 ml lime juice","15 ml rapeseed oil"],"method":["Soak noodles in hot water until flexible, then drain.","Heat rapeseed oil and stir-fry garlic briefly.","Add noodles, soy sauce and lime juice and toss until hot.","Push noodles aside, scramble the eggs, then combine.","Fold in bean sprouts and carrot for the final minute and finish with peanuts."]},
-{"cat":"Asian-inspired","title":"Chicken teriyaki bowl","source":"Adapted from BBC Good Food","url":"https://www.bbcgoodfood.com/recipes/chicken-teriyaki","servings":2,"notes":"Omit spring onion; serve with rice and vegetables.","ingredients":["300 g chicken thighs, cut into 4 cm pieces","15 ml rapeseed oil","80 ml teriyaki sauce","300 g cooked rice","120 g carrots, peeled and cut into thin strips","100 g peas","100 g bean sprouts"],"method":["Heat oil and brown chicken for 5–6 minutes.","Add teriyaki sauce and simmer until glossy and chicken reaches 75°C.","Steam carrots and peas until just tender.","Serve over rice with vegetables and bean sprouts."]},
-{"cat":"Asian-inspired","title":"Salmon sushi bowl","source":"Adapted from Just One Cookbook","url":"https://www.justonecookbook.com/sushi-bowl/","servings":2,"notes":"Use salmon, rice, cucumber, avocado and sesame; skip mayonnaise.","ingredients":["400 g salmon fillet","300 g cooked rice","120 g cucumber, halved and sliced","1 avocado, sliced","10 g sesame seeds","30 ml soy sauce","10 ml sesame oil"],"method":["Cut salmon into 3 cm cubes.","Bake at 200°C fan for 10–14 minutes until flaky, or pan-cook until the centre reaches 63°C.","Arrange rice, cucumber and avocado in bowls.","Top with salmon, sesame seeds, soy sauce and sesame oil."]},
-{"cat":"Rice & one-pot","title":"One-pot chicken and rice","source":"Adapted from Budget Bytes","url":"https://www.budgetbytes.com/one-pot-chicken-and-rice/","servings":4,"notes":"Omit onion and add peas, carrots or corn.","ingredients":["500 g chicken thighs, cut into 4 cm pieces","250 g long-grain rice, rinsed","120 g carrots, peeled and diced","120 g peas","100 g sweetcorn, drained","500 ml chicken stock","15 ml rapeseed oil","2 garlic cloves, minced","5 g paprika","5 g salt"],"method":["Heat oil and brown chicken for 5 minutes.","Add garlic, paprika, rice and stock and bring to a simmer.","Cover and cook on low for 18–20 minutes.","Add carrots, peas and corn for the final 5 minutes.","Check chicken reaches 75°C and rest for 5 minutes."]},
-{"cat":"Rice & one-pot","title":"Chicken fried rice","source":"Adapted from EatingWell","url":"https://www.eatingwell.com/recipe/261426/easy-chicken-fried-rice/","servings":4,"notes":"Keep egg, peas and carrots. Add corn or bean sprouts.","ingredients":["350 g cooked cold rice","300 g chicken, diced into 2 cm pieces","2 eggs, beaten","100 g peas","100 g sweetcorn","100 g carrots, peeled and diced","100 g bean sprouts","30 ml soy sauce","15 ml avocado oil","1 garlic clove, minced","5 g ginger, grated"],"method":["Heat avocado oil and cook chicken with garlic and ginger until done. Set aside.","Scramble eggs in the same wok.","Add carrots, peas and corn and stir-fry for 3 minutes.","Add rice and soy sauce and toss over high heat.","Return chicken and fold in bean sprouts."]},
-{"cat":"Danish & Nordic","title":"Biksemad","source":"Adapted from Skandibaking","url":"https://skandibaking.com/biksemad-danish-meat-and-potato-hash/","servings":2,"notes":"Use leftover pork or beef. Omit onion and add peas or carrots.","ingredients":["400 g cooked pork or beef, cut into 2 cm cubes","500 g cooked potatoes, cut into 2 cm cubes","120 g peas","100 g carrots, peeled and diced","2 eggs","20 ml rapeseed oil","5 g salt","1 g black pepper"],"method":["Heat rapeseed oil.","Fry potatoes for 8–10 minutes until golden.","Add meat and carrots and cook for 5 minutes.","Stir in peas for 2 minutes.","Fry eggs separately and place them on top."]},
-{"cat":"Danish & Nordic","title":"Danish frikadeller","source":"Adapted from Manila Spoon","url":"https://www.manilaspoon.com/2013/05/frikadeller-danish-meatballs.html","servings":4,"notes":"Use chicken mince and omit onion.","ingredients":["500 g chicken mince","1 egg","50 g breadcrumbs","100 ml lactose-free milk","15 ml rapeseed oil","5 g salt","1 g black pepper","400 g potatoes, peeled and quartered","120 g peas"],"method":["Mix mince, egg, breadcrumbs, milk, salt and pepper and rest for 10 minutes.","Shape into 8–10 meatballs.","Pan-fry in rapeseed oil until browned and the centre reaches 75°C.","Boil potatoes for 15–20 minutes and serve with peas."]},
-{"cat":"Salmon & seafood","title":"Salmon traybake","source":"Adapted from BBC Food","url":"https://www.bbc.co.uk/food/recipes/baked_salmon_00289","servings":2,"notes":"Omit tomato and capers; keep potatoes and asparagus and add peas.","ingredients":["400 g salmon fillet","500 g potatoes, cut into 3 cm wedges","200 g asparagus, woody ends trimmed","120 g peas","15 ml rapeseed oil","1 lemon, quartered","5 g salt","1 g black pepper"],"method":["Toss potato wedges with oil, salt and pepper and roast at 210°C fan for 25 minutes.","Add salmon and asparagus and bake another 12–15 minutes until salmon flakes and reaches 63°C.","Boil peas for 2–3 minutes and serve with lemon."]},
-{"cat":"Salmon & seafood","title":"Salmon pasta","source":"Adapted from BBC Good Food","url":"https://www.bbc.co.uk/food/recipes/salmon-pasta","servings":4,"notes":"Omit capers and onion; use spinach, peas and lactose-free cream.","ingredients":["300 g pasta","350 g salmon, cut into 3 cm pieces","120 g peas","80 g spinach, roughly chopped","150 ml lactose-free cooking cream","10 ml rapeseed oil","10 ml lemon juice","5 g salt"],"method":["Cook pasta and reserve 100 ml water.","Cook salmon in rapeseed oil for 4–5 minutes until flaky.","Add cream and peas and simmer for 3 minutes.","Fold in spinach, then toss with pasta, lemon juice and pasta water."]},
-{"cat":"Eggs & quick meals","title":"Frittata","source":"Adapted from BBC Good Food","url":"https://www.bbcgoodfood.com/recipes/frittata","servings":3,"notes":"Use eggs, spinach, peas, corn, asparagus and mozzarella.","ingredients":["6 eggs","100 g spinach, roughly chopped","100 g peas","100 g sweetcorn","150 g asparagus, trimmed and cut into 3 cm pieces","80 g shredded mozzarella","10 ml avocado oil","5 g salt","1 g black pepper"],"method":["Heat avocado oil.","Cook asparagus for 4 minutes, then add peas, corn and spinach.","Pour over beaten eggs and add mozzarella.","Cook gently for 5 minutes, then grill at 200°C for 3–5 minutes until set."]},
-{"cat":"Eggs & quick meals","title":"Spanish omelette","source":"Adapted from BBC Good Food","url":"https://www.bbcgoodfood.com/recipes/spanish-omelette","servings":4,"notes":"Omit onion; use potato, egg, peas and spinach.","ingredients":["500 g potatoes, peeled and sliced 3 mm thick","6 eggs","100 g peas","60 g spinach, chopped","30 ml rapeseed oil","5 g salt"],"method":["Cook potato slices in oil over medium-low heat for 12–15 minutes until tender.","Add peas and spinach for 2 minutes.","Pour over beaten eggs and cook until mostly set.","Finish under a grill until firm and lightly golden."]},
-{"cat":"Chicken","title":"Chicken pasta bake","source":"Adapted from BBC Good Food","url":"https://www.bbcgoodfood.com/recipes/chicken-pasta-bake","servings":4,"notes":"Use mozzarella; omit tomato and onion and add peas and spinach.","ingredients":["300 g pasta","400 g chicken breast, diced into 3 cm pieces","120 g peas","80 g spinach","250 ml lactose-free white sauce","100 g shredded mozzarella","15 ml rapeseed oil"],"method":["Cook pasta until 2 minutes short of tender.","Cook chicken in oil until the centre reaches 75°C.","Combine with sauce, peas and spinach.","Top with mozzarella and bake at 200°C fan for 20 minutes."]},
-{"cat":"Chicken","title":"Chicken wraps","source":"Adapted from BBC Good Food","url":"https://www.bbcgoodfood.com/recipes/chicken-wraps","servings":4,"notes":"Use lettuce, cucumber, carrots, corn and avocado; no mayonnaise.","ingredients":["400 g cooked chicken, sliced","4 medium wheat wraps","80 g iceberg lettuce, shredded","120 g cucumber, cut into sticks","100 g carrots, peeled and grated","100 g sweetcorn","1 avocado, sliced","10 ml lemon juice"],"method":["Warm wraps briefly.","Prepare lettuce, cucumber, carrots, corn and avocado.","Toss avocado with lemon juice.","Fill wraps, fold in the sides and roll tightly."]},
-{"cat":"Beef","title":"Steak and chips","source":"Adapted from BBC Good Food","url":"https://www.bbcgoodfood.com/recipes/steak-chips","servings":2,"notes":"Use lean steak and oven-baked potatoes; add asparagus or peas.","ingredients":["2 lean steaks, about 180 g each","500 g potatoes, cut into 1 cm chips","200 g asparagus, trimmed, or peas","15 ml rapeseed oil","5 g salt","1 g black pepper"],"method":["Toss chips with oil and roast at 220°C fan for 30–35 minutes, turning halfway.","Season steaks and sear in a hot pan for 2–4 minutes per side depending on thickness.","Rest for 5 minutes. Steam asparagus for 4–5 minutes or boil peas for 2–3 minutes."]},
-{"cat":"Pork","title":"Pork tenderloin traybake","source":"Adapted from BBC Good Food","url":"https://www.bbcgoodfood.com/recipes/pork-tenderloin-traybake","servings":4,"notes":"Omit onion; use potatoes, carrots, squash and peas.","ingredients":["500 g pork tenderloin","500 g potatoes, cut into 3 cm pieces","200 g carrots, peeled and cut into 2 cm pieces","250 g squash, peeled and cut into 3 cm cubes","120 g peas","20 ml rapeseed oil","5 g paprika","5 g salt"],"method":["Toss potatoes, carrots and squash with oil, paprika and salt. Roast at 210°C fan for 25 minutes.","Add pork and roast another 18–22 minutes until the centre reaches 63°C.","Rest pork for 3 minutes and serve with peas."]},
-{"cat":"Pasta","title":"Salmon and pea pasta","source":"Original adaptation","url":"https://www.bbcgoodfood.com/recipes/salmon-pasta","servings":4,"notes":"Use lactose-free cream and omit onion and capers.","ingredients":["300 g pasta","350 g salmon, cut into 3 cm pieces","120 g peas","80 g spinach","150 ml lactose-free cream","10 ml rapeseed oil","10 ml lemon juice"],"method":["Cook pasta and reserve 100 ml water.","Cook salmon in oil until flaky.","Add cream, peas and spinach and simmer for 3 minutes.","Toss with pasta, lemon juice and pasta water."]},
-{"cat":"Other","title":"Chicken and avocado rice bowl","source":"Original adaptation","url":"https://www.bbcgoodfood.com/recipes/collection/rice-bowl-recipes","servings":2,"notes":"A simple bowl using cucumber, corn and avocado instead of heavy dressing.","ingredients":["400 g chicken breast","300 g cooked rice","1 avocado, sliced","120 g cucumber, sliced","100 g sweetcorn","100 g carrots, peeled and grated","10 ml lemon juice","10 ml avocado oil"],"method":["Cook chicken in avocado oil until the centre reaches 75°C, then rest and slice.","Prepare cucumber, carrots, corn and avocado.","Arrange rice and vegetables in bowls.","Top with chicken and lemon juice."]}
+  {
+    "cat": "Indian-inspired",
+    "title": "Mild chicken tandoori",
+    "source": "Adapted from Tea for Turmeric",
+    "url": "https://www.teaforturmeric.com/baked-tandoori-chicken-curry/",
+    "servings": 4,
+    "notes": "Mild version: omit chilli and onion. Use lactose-free yoghurt if needed.",
+    "ingredients": [
+      "600 g chicken thighs or breast, cut into 4–5 cm pieces",
+      "180 g lactose-free natural yoghurt",
+      "10 ml avocado or rapeseed oil",
+      "10 g tandoori masala",
+      "2 g paprika",
+      "2 g ground cumin",
+      "1 g turmeric",
+      "2 g garam masala",
+      "2 garlic cloves, finely grated",
+      "5 g fresh ginger, finely grated",
+      "Juice of 1 lemon",
+      "5 g salt",
+      "1 g black pepper"
+    ],
+    "method": [
+      "Cut shallow slits into the thickest parts of the chicken.",
+      "Mix yoghurt, oil, spices, garlic, ginger, lemon juice, salt and pepper.",
+      "Coat the chicken, cover and refrigerate for at least 30 minutes.",
+      "Place on a lined tray and bake at 220°C conventional or 200°C fan for 25–35 minutes, turning once.",
+      "Check the thickest piece reaches 75°C. Rest for 5 minutes and serve with rice and sliced cucumber."
+    ]
+  },
+  {
+    "cat": "Indian-inspired",
+    "title": "Chicken biryani",
+    "source": "Adapted from BBC Food",
+    "url": "https://www.bbc.co.uk/food/recipes/chickenbiriyani_89035",
+    "servings": 4,
+    "notes": "Omit onion and shallots. Add carrots, peas or spinach and keep the spice level mild.",
+    "ingredients": [
+      "500 g boneless chicken, cut into 4 cm pieces",
+      "250 g basmati rice, rinsed",
+      "120 g carrots, peeled and diced",
+      "120 g frozen peas",
+      "60 g spinach, roughly chopped",
+      "3 garlic cloves, finely chopped",
+      "15 g fresh ginger, grated",
+      "10 ml rapeseed oil",
+      "500 ml chicken stock",
+      "5 g mild curry spice blend",
+      "2 g turmeric",
+      "5 g salt"
+    ],
+    "method": [
+      "Rinse the rice until the water runs mostly clear. Simmer it in water for 7–8 minutes, then drain while still firm.",
+      "Heat rapeseed oil in a large pot and brown the chicken for 4–5 minutes.",
+      "Add garlic, ginger, spices, carrots and stock. Simmer covered for 12–15 minutes until the chicken is cooked.",
+      "Fold in the rice and peas, cover and cook on low for 8–10 minutes.",
+      "Stir through spinach, rest covered for 5 minutes and fluff before serving."
+    ]
+  },
+  {
+    "cat": "Indian-inspired",
+    "title": "Chicken pulao",
+    "source": "Adapted from Skinnytaste",
+    "url": "https://www.skinnytaste.com/instant-pot-indian-chicken-pulao/",
+    "servings": 4,
+    "notes": "Leave out onion and keep the spices mild.",
+    "ingredients": [
+      "500 g chicken breast, cut into 4 cm pieces",
+      "250 g basmati rice, rinsed",
+      "100 g carrots, peeled and diced",
+      "100 g peas",
+      "15 ml avocado oil",
+      "2 garlic cloves, minced",
+      "10 g ginger, grated",
+      "600 ml chicken stock",
+      "5 g mild garam masala",
+      "5 g salt"
+    ],
+    "method": [
+      "Heat avocado oil in a heavy pot and brown the chicken for 4 minutes.",
+      "Add garlic, ginger, garam masala, rice and stock. Stir once.",
+      "Cover and simmer gently for 15 minutes, or until the rice is tender and the chicken reaches 75°C.",
+      "Fold in carrots and peas during the final 5 minutes. Rest for 5 minutes before serving."
+    ]
+  },
+  {
+    "cat": "Indian-inspired",
+    "title": "Mild chicken tikka masala",
+    "source": "Adapted from BBC Food",
+    "url": "https://www.bbc.co.uk/food/recipes/chickentikkamasala_73305",
+    "servings": 4,
+    "notes": "Omit onion and tomato if needed; use mild curry and add spinach.",
+    "ingredients": [
+      "600 g chicken breast, cut into 4 cm pieces",
+      "150 g lactose-free yoghurt",
+      "15 ml rapeseed oil",
+      "3 garlic cloves, finely grated",
+      "15 g ginger, grated",
+      "8 g mild curry powder",
+      "400 ml chicken stock",
+      "100 ml lactose-free cooking cream",
+      "80 g spinach, roughly chopped",
+      "5 g salt"
+    ],
+    "method": [
+      "Mix chicken with 75 g yoghurt, half the garlic, half the ginger and the curry powder. Marinate for 30 minutes.",
+      "Heat rapeseed oil and brown the chicken in batches for 3–4 minutes.",
+      "Add remaining garlic, ginger and stock. Simmer for 12–15 minutes until cooked.",
+      "Lower the heat and stir in cream, remaining yoghurt and spinach. Do not boil after adding yoghurt."
+    ]
+  },
+  {
+    "cat": "Indian-inspired",
+    "title": "Easy chicken curry",
+    "source": "Adapted from BBC Good Food",
+    "url": "https://www.bbcgoodfood.com/recipes/easy-chicken-curry",
+    "servings": 4,
+    "notes": "Use lactose-free yoghurt and add peas or carrots.",
+    "ingredients": [
+      "500 g chicken, cut into 4 cm pieces",
+      "15 ml rapeseed oil",
+      "10 g mild curry powder",
+      "2 garlic cloves, minced",
+      "10 g ginger, grated",
+      "300 ml chicken stock",
+      "120 g carrots, peeled and sliced",
+      "120 g peas",
+      "100 g lactose-free yoghurt",
+      "5 g salt"
+    ],
+    "method": [
+      "Heat oil and brown chicken for 5 minutes.",
+      "Add curry powder, garlic and ginger and cook for 1 minute.",
+      "Pour in stock and simmer for 15 minutes.",
+      "Add carrots and peas and cook for another 6–8 minutes.",
+      "Remove from heat and stir in yoghurt."
+    ]
+  },
+  {
+    "cat": "Asian-inspired",
+    "title": "Chicken pad Thai",
+    "source": "Adapted from BBC Food",
+    "url": "https://www.bbc.co.uk/food/recipes/pad_thai_38349",
+    "servings": 2,
+    "notes": "Keep egg, bean sprouts, peanuts and carrots. Omit spring onion and chilli.",
+    "ingredients": [
+      "250 g dry flat rice noodles",
+      "3 garlic cloves, roughly chopped",
+      "2 eggs",
+      "120 g bean sprouts",
+      "100 g carrot, peeled and cut into matchsticks",
+      "30 g peanuts, roughly crushed",
+      "30 ml soy sauce",
+      "20 ml lime juice",
+      "15 ml rapeseed oil"
+    ],
+    "method": [
+      "Soak noodles in hot water until flexible, then drain.",
+      "Heat rapeseed oil and stir-fry garlic briefly.",
+      "Add noodles, soy sauce and lime juice and toss until hot.",
+      "Push noodles aside, scramble the eggs, then combine.",
+      "Fold in bean sprouts and carrot for the final minute and finish with peanuts."
+    ]
+  },
+  {
+    "cat": "Asian-inspired",
+    "title": "Chicken teriyaki bowl",
+    "source": "Adapted from BBC Good Food",
+    "url": "https://www.bbcgoodfood.com/recipes/chicken-teriyaki",
+    "servings": 2,
+    "notes": "Omit spring onion; serve with rice and vegetables.",
+    "ingredients": [
+      "300 g chicken thighs, cut into 4 cm pieces",
+      "15 ml rapeseed oil",
+      "80 ml teriyaki sauce",
+      "300 g cooked rice",
+      "120 g carrots, peeled and cut into thin strips",
+      "100 g peas",
+      "100 g bean sprouts"
+    ],
+    "method": [
+      "Heat oil and brown chicken for 5–6 minutes.",
+      "Add teriyaki sauce and simmer until glossy and chicken reaches 75°C.",
+      "Steam carrots and peas until just tender.",
+      "Serve over rice with vegetables and bean sprouts."
+    ]
+  },
+  {
+    "cat": "Asian-inspired",
+    "title": "Salmon sushi bowl",
+    "source": "Adapted from Just One Cookbook",
+    "url": "https://www.justonecookbook.com/sushi-bowl/",
+    "servings": 2,
+    "notes": "Use salmon, rice, cucumber, avocado and sesame; skip mayonnaise.",
+    "ingredients": [
+      "400 g salmon fillet",
+      "300 g cooked rice",
+      "120 g cucumber, halved and sliced",
+      "1 avocado, sliced",
+      "10 g sesame seeds",
+      "30 ml soy sauce",
+      "10 ml sesame oil"
+    ],
+    "method": [
+      "Cut salmon into 3 cm cubes.",
+      "Bake at 200°C fan for 10–14 minutes until flaky, or pan-cook until the centre reaches 63°C.",
+      "Arrange rice, cucumber and avocado in bowls.",
+      "Top with salmon, sesame seeds, soy sauce and sesame oil."
+    ]
+  },
+  {
+    "cat": "Rice & one-pot",
+    "title": "One-pot chicken and rice",
+    "source": "Adapted from Budget Bytes",
+    "url": "https://www.budgetbytes.com/one-pot-chicken-and-rice/",
+    "servings": 4,
+    "notes": "Omit onion and add peas, carrots or corn.",
+    "ingredients": [
+      "500 g chicken thighs, cut into 4 cm pieces",
+      "250 g long-grain rice, rinsed",
+      "120 g carrots, peeled and diced",
+      "120 g peas",
+      "100 g sweetcorn, drained",
+      "500 ml chicken stock",
+      "15 ml rapeseed oil",
+      "2 garlic cloves, minced",
+      "5 g paprika",
+      "5 g salt"
+    ],
+    "method": [
+      "Heat oil and brown chicken for 5 minutes.",
+      "Add garlic, paprika, rice and stock and bring to a simmer.",
+      "Cover and cook on low for 18–20 minutes.",
+      "Add carrots, peas and corn for the final 5 minutes.",
+      "Check chicken reaches 75°C and rest for 5 minutes."
+    ]
+  },
+  {
+    "cat": "Rice & one-pot",
+    "title": "Chicken fried rice",
+    "source": "Adapted from EatingWell",
+    "url": "https://www.eatingwell.com/recipe/261426/easy-chicken-fried-rice/",
+    "servings": 4,
+    "notes": "Keep egg, peas and carrots. Add corn or bean sprouts.",
+    "ingredients": [
+      "350 g cooked cold rice",
+      "300 g chicken, diced into 2 cm pieces",
+      "2 eggs, beaten",
+      "100 g peas",
+      "100 g sweetcorn",
+      "100 g carrots, peeled and diced",
+      "100 g bean sprouts",
+      "30 ml soy sauce",
+      "15 ml avocado oil",
+      "1 garlic clove, minced",
+      "5 g ginger, grated"
+    ],
+    "method": [
+      "Heat avocado oil and cook chicken with garlic and ginger until done. Set aside.",
+      "Scramble eggs in the same wok.",
+      "Add carrots, peas and corn and stir-fry for 3 minutes.",
+      "Add rice and soy sauce and toss over high heat.",
+      "Return chicken and fold in bean sprouts."
+    ]
+  },
+  {
+    "cat": "Danish & Nordic",
+    "title": "Biksemad",
+    "source": "Adapted from Skandibaking",
+    "url": "https://skandibaking.com/biksemad-danish-meat-and-potato-hash/",
+    "servings": 2,
+    "notes": "Use leftover pork or beef. Omit onion and add peas or carrots.",
+    "ingredients": [
+      "400 g cooked pork or beef, cut into 2 cm cubes",
+      "500 g cooked potatoes, cut into 2 cm cubes",
+      "120 g peas",
+      "100 g carrots, peeled and diced",
+      "2 eggs",
+      "20 ml rapeseed oil",
+      "5 g salt",
+      "1 g black pepper"
+    ],
+    "method": [
+      "Heat rapeseed oil.",
+      "Fry potatoes for 8–10 minutes until golden.",
+      "Add meat and carrots and cook for 5 minutes.",
+      "Stir in peas for 2 minutes.",
+      "Fry eggs separately and place them on top."
+    ]
+  },
+  {
+    "cat": "Danish & Nordic",
+    "title": "Danish frikadeller",
+    "source": "Adapted from Manila Spoon",
+    "url": "https://www.manilaspoon.com/2013/05/frikadeller-danish-meatballs.html",
+    "servings": 4,
+    "notes": "Use chicken mince and omit onion.",
+    "ingredients": [
+      "500 g chicken mince",
+      "1 egg",
+      "50 g breadcrumbs",
+      "100 ml lactose-free milk",
+      "15 ml rapeseed oil",
+      "5 g salt",
+      "1 g black pepper",
+      "400 g potatoes, peeled and quartered",
+      "120 g peas"
+    ],
+    "method": [
+      "Mix mince, egg, breadcrumbs, milk, salt and pepper and rest for 10 minutes.",
+      "Shape into 8–10 meatballs.",
+      "Pan-fry in rapeseed oil until browned and the centre reaches 75°C.",
+      "Boil potatoes for 15–20 minutes and serve with peas."
+    ]
+  },
+  {
+    "cat": "Salmon & seafood",
+    "title": "Salmon traybake",
+    "source": "Adapted from BBC Food",
+    "url": "https://www.bbc.co.uk/food/recipes/baked_salmon_00289",
+    "servings": 2,
+    "notes": "Omit tomato and capers; keep potatoes and asparagus and add peas.",
+    "ingredients": [
+      "400 g salmon fillet",
+      "500 g potatoes, cut into 3 cm wedges",
+      "200 g asparagus, woody ends trimmed",
+      "120 g peas",
+      "15 ml rapeseed oil",
+      "1 lemon, quartered",
+      "5 g salt",
+      "1 g black pepper"
+    ],
+    "method": [
+      "Toss potato wedges with oil, salt and pepper and roast at 210°C fan for 25 minutes.",
+      "Add salmon and asparagus and bake another 12–15 minutes until salmon flakes and reaches 63°C.",
+      "Boil peas for 2–3 minutes and serve with lemon."
+    ]
+  },
+  {
+    "cat": "Salmon & seafood",
+    "title": "Salmon pasta",
+    "source": "Adapted from BBC Good Food",
+    "url": "https://www.bbc.co.uk/food/recipes/salmon-pasta",
+    "servings": 4,
+    "notes": "Omit capers and onion; use spinach, peas and lactose-free cream.",
+    "ingredients": [
+      "300 g pasta",
+      "350 g salmon, cut into 3 cm pieces",
+      "120 g peas",
+      "80 g spinach, roughly chopped",
+      "150 ml lactose-free cooking cream",
+      "10 ml rapeseed oil",
+      "10 ml lemon juice",
+      "5 g salt"
+    ],
+    "method": [
+      "Cook pasta and reserve 100 ml water.",
+      "Cook salmon in rapeseed oil for 4–5 minutes until flaky.",
+      "Add cream and peas and simmer for 3 minutes.",
+      "Fold in spinach, then toss with pasta, lemon juice and pasta water."
+    ]
+  },
+  {
+    "cat": "Eggs & quick meals",
+    "title": "Frittata",
+    "source": "Adapted from BBC Good Food",
+    "url": "https://www.bbcgoodfood.com/recipes/frittata",
+    "servings": 3,
+    "notes": "Use eggs, spinach, peas, corn, asparagus and mozzarella.",
+    "ingredients": [
+      "6 eggs",
+      "100 g spinach, roughly chopped",
+      "100 g peas",
+      "100 g sweetcorn",
+      "150 g asparagus, trimmed and cut into 3 cm pieces",
+      "80 g shredded mozzarella",
+      "10 ml avocado oil",
+      "5 g salt",
+      "1 g black pepper"
+    ],
+    "method": [
+      "Heat avocado oil.",
+      "Cook asparagus for 4 minutes, then add peas, corn and spinach.",
+      "Pour over beaten eggs and add mozzarella.",
+      "Cook gently for 5 minutes, then grill at 200°C for 3–5 minutes until set."
+    ]
+  },
+  {
+    "cat": "Eggs & quick meals",
+    "title": "Spanish omelette",
+    "source": "Adapted from BBC Good Food",
+    "url": "https://www.bbcgoodfood.com/recipes/spanish-omelette",
+    "servings": 4,
+    "notes": "Omit onion; use potato, egg, peas and spinach.",
+    "ingredients": [
+      "500 g potatoes, peeled and sliced 3 mm thick",
+      "6 eggs",
+      "100 g peas",
+      "60 g spinach, chopped",
+      "30 ml rapeseed oil",
+      "5 g salt"
+    ],
+    "method": [
+      "Cook potato slices in oil over medium-low heat for 12–15 minutes until tender.",
+      "Add peas and spinach for 2 minutes.",
+      "Pour over beaten eggs and cook until mostly set.",
+      "Finish under a grill until firm and lightly golden."
+    ]
+  },
+  {
+    "cat": "Chicken",
+    "title": "Chicken pasta bake",
+    "source": "Adapted from BBC Good Food",
+    "url": "https://www.bbcgoodfood.com/recipes/chicken-pasta-bake",
+    "servings": 4,
+    "notes": "Use mozzarella; omit tomato and onion and add peas and spinach.",
+    "ingredients": [
+      "300 g pasta",
+      "400 g chicken breast, diced into 3 cm pieces",
+      "120 g peas",
+      "80 g spinach",
+      "250 ml lactose-free white sauce",
+      "100 g shredded mozzarella",
+      "15 ml rapeseed oil"
+    ],
+    "method": [
+      "Cook pasta until 2 minutes short of tender.",
+      "Cook chicken in oil until the centre reaches 75°C.",
+      "Combine with sauce, peas and spinach.",
+      "Top with mozzarella and bake at 200°C fan for 20 minutes."
+    ]
+  },
+  {
+    "cat": "Chicken",
+    "title": "Chicken wraps",
+    "source": "Adapted from BBC Good Food",
+    "url": "https://www.bbcgoodfood.com/recipes/chicken-wraps",
+    "servings": 4,
+    "notes": "Use lettuce, cucumber, carrots, corn and avocado; no mayonnaise.",
+    "ingredients": [
+      "400 g cooked chicken, sliced",
+      "4 medium wheat wraps",
+      "80 g iceberg lettuce, shredded",
+      "120 g cucumber, cut into sticks",
+      "100 g carrots, peeled and grated",
+      "100 g sweetcorn",
+      "1 avocado, sliced",
+      "10 ml lemon juice"
+    ],
+    "method": [
+      "Warm wraps briefly.",
+      "Prepare lettuce, cucumber, carrots, corn and avocado.",
+      "Toss avocado with lemon juice.",
+      "Fill wraps, fold in the sides and roll tightly."
+    ]
+  },
+  {
+    "cat": "Beef",
+    "title": "Steak and chips",
+    "source": "Adapted from BBC Good Food",
+    "url": "https://www.bbcgoodfood.com/recipes/steak-chips",
+    "servings": 2,
+    "notes": "Use lean steak and oven-baked potatoes; add asparagus or peas.",
+    "ingredients": [
+      "2 lean steaks, about 180 g each",
+      "500 g potatoes, cut into 1 cm chips",
+      "200 g asparagus, trimmed, or peas",
+      "15 ml rapeseed oil",
+      "5 g salt",
+      "1 g black pepper"
+    ],
+    "method": [
+      "Toss chips with oil and roast at 220°C fan for 30–35 minutes, turning halfway.",
+      "Season steaks and sear in a hot pan for 2–4 minutes per side depending on thickness.",
+      "Rest for 5 minutes. Steam asparagus for 4–5 minutes or boil peas for 2–3 minutes."
+    ]
+  },
+  {
+    "cat": "Pork",
+    "title": "Pork tenderloin traybake",
+    "source": "Adapted from BBC Good Food",
+    "url": "https://www.bbcgoodfood.com/recipes/pork-tenderloin-traybake",
+    "servings": 4,
+    "notes": "Omit onion; use potatoes, carrots, squash and peas.",
+    "ingredients": [
+      "500 g pork tenderloin",
+      "500 g potatoes, cut into 3 cm pieces",
+      "200 g carrots, peeled and cut into 2 cm pieces",
+      "250 g squash, peeled and cut into 3 cm cubes",
+      "120 g peas",
+      "20 ml rapeseed oil",
+      "5 g paprika",
+      "5 g salt"
+    ],
+    "method": [
+      "Toss potatoes, carrots and squash with oil, paprika and salt. Roast at 210°C fan for 25 minutes.",
+      "Add pork and roast another 18–22 minutes until the centre reaches 63°C.",
+      "Rest pork for 3 minutes and serve with peas."
+    ]
+  },
+  {
+    "cat": "Pasta",
+    "title": "Salmon and pea pasta",
+    "source": "Original adaptation",
+    "url": "https://www.bbcgoodfood.com/recipes/salmon-pasta",
+    "servings": 4,
+    "notes": "Use lactose-free cream and omit onion and capers.",
+    "ingredients": [
+      "300 g pasta",
+      "350 g salmon, cut into 3 cm pieces",
+      "120 g peas",
+      "80 g spinach",
+      "150 ml lactose-free cream",
+      "10 ml rapeseed oil",
+      "10 ml lemon juice"
+    ],
+    "method": [
+      "Cook pasta and reserve 100 ml water.",
+      "Cook salmon in oil until flaky.",
+      "Add cream, peas and spinach and simmer for 3 minutes.",
+      "Toss with pasta, lemon juice and pasta water."
+    ]
+  },
+  {
+    "cat": "Other",
+    "title": "Chicken and avocado rice bowl",
+    "source": "Original adaptation",
+    "url": "https://www.bbcgoodfood.com/recipes/collection/rice-bowl-recipes",
+    "servings": 2,
+    "notes": "A simple bowl using cucumber, corn and avocado instead of heavy dressing.",
+    "ingredients": [
+      "400 g chicken breast",
+      "300 g cooked rice",
+      "1 avocado, sliced",
+      "120 g cucumber, sliced",
+      "100 g sweetcorn",
+      "100 g carrots, peeled and grated",
+      "10 ml lemon juice",
+      "10 ml avocado oil"
+    ],
+    "method": [
+      "Cook chicken in avocado oil until the centre reaches 75°C, then rest and slice.",
+      "Prepare cucumber, carrots, corn and avocado.",
+      "Arrange rice and vegetables in bowls.",
+      "Top with chicken and lemon juice."
+    ]
+  },
+  {
+    "cat": "Asian-inspired",
+    "title": "Garlic Ginger Chicken",
+    "source": "Foodess",
+    "url": "https://foodess.com/garlic-ginger-chicken/",
+    "servings": 4,
+    "notes": "Mild version; omit green onion if preferred. Serve with rice or vegetables.",
+    "ingredients": [
+      "680 g boneless, skinless chicken thighs, cut into bite-sized pieces",
+      "30 g cornflour",
+      "5 g kosher salt",
+      "30 ml avocado oil or another high-smoke-point oil",
+      "85 g honey",
+      "180 ml chicken stock",
+      "60 ml soy sauce",
+      "6 garlic cloves, minced",
+      "30 g fresh ginger, grated",
+      "3 green onions, thinly sliced"
+    ],
+    "method": [
+      "Toss the chicken with cornflour and salt until evenly coated.",
+      "Heat the oil in a large pan and cook the chicken until golden on the outside and nearly cooked through.",
+      "Whisk together the honey, chicken stock and soy sauce.",
+      "Add the garlic and ginger to the pan and cook briefly until fragrant.",
+      "Pour in the sauce and simmer until thickened and the chicken reaches 74°C internally.",
+      "Finish with the sliced green onions and serve with rice or vegetables."
+    ]
+  }
 ]
